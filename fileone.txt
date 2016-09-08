@@ -1,2 +1,6 @@
 hello world
+<<<<<<< HEAD
 added from cloned rep
+=======
+testing commit amend on content of this file
+>>>>>>> 1f653e0f0e710d40dd8f43c951d571ba24bdf29c
