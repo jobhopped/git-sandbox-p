@@ -1,2 +1,3 @@
 testing commit amend
 added this line to test amend option to contents of the file
+3rd line
